@@ -1,5 +1,7 @@
 package FlyweightPattern;
 
+
+//String常量池、数据库连接池、缓冲池等等都是享元模式的应用
 public class FlyweightPatternDemo {
     private static final String colors[] =
             { "Red", "Green", "Blue", "White", "Black" };
