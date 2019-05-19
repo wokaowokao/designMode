@@ -1,5 +1,7 @@
 package structType.AdapterPattern;
 
+//引入一个类  mediaAdapter 来兼容 之前不支持的 功能
+
 public class AdapterPatternDemo {
     public static void main(String[] args) {
         AudioPlayer audioPlayer = new AudioPlayer();

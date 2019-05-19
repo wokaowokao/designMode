@@ -1,4 +1,4 @@
-package actionType.FacadePattern;
+package structType.FacadePattern;
 
 //外观模式
 //隐藏了系统的复杂性

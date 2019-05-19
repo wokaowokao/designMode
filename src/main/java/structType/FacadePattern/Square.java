@@ -1,4 +1,4 @@
-package actionType.FacadePattern;
+package structType.FacadePattern;
 
 public class Square implements Shape {
 

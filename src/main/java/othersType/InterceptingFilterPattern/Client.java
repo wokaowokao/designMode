@@ -1,4 +1,4 @@
-package InterceptingFilterPattern;
+package othersType.InterceptingFilterPattern;
 
 public class Client {
     FilterManager filterManager;

@@ -1,4 +1,4 @@
-package InterceptingFilterPattern;
+package othersType.InterceptingFilterPattern;
 
 public class FilterManager {
     FilterChain filterChain;

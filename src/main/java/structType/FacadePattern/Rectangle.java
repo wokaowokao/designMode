@@ -1,4 +1,4 @@
-package actionType.FacadePattern;
+package structType.FacadePattern;
 
 public class Rectangle implements Shape {
 
