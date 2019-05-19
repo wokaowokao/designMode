@@ -1,4 +1,4 @@
-package othersType.InterceptingFilterPattern;
+package InterceptingFilterPattern;
 
 public class AuthenticationFilter implements Filter {
     public void execute(String request){

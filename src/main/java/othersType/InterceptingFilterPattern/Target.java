@@ -1,4 +1,4 @@
-package othersType.InterceptingFilterPattern;
+package InterceptingFilterPattern;
 
 public class Target {
     public void execute(String request){

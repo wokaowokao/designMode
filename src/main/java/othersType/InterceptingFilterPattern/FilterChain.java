@@ -1,4 +1,4 @@
-package othersType.InterceptingFilterPattern;
+package InterceptingFilterPattern;
 
 import java.util.ArrayList;
 import java.util.List;
