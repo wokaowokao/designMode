@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82169f31-5571-4b11-bd25-ed5b02e2133b" name="Default Changelist" comment="修改了">
+      <change beforePath="$PROJECT_DIR$/designMode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/actionType/ChainofResponsibilityPattern/AbstractLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actionType/ChainofResponsibilityPattern/AbstractLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zyw-demo.iml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DataAccessObjectPattern</find>
+      <find>package</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>othersType.DataAccessObjectPattern</replace>
+      <replace>package actionType.</replace>
+      <replace>package createType.</replace>
+      <replace>package ot.</replace>
+      <replace>package othersType</replace>
+      <replace>package structType</replace>
+      <replace>package structType.</replace>
+      <replace>package othersType.</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/actionType</dir>
+      <dir>$PROJECT_DIR$/src/main/java/createType</dir>
+      <dir>$PROJECT_DIR$/src/main/java/structType</dir>
+      <dir>$PROJECT_DIR$/src/main/java/othersType/InterceptingFilterPattern</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UotJuXpHU8rXXWJZOc8BXJhw03" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565747487466" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/createType/FactoryPattern/demo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="createType.FactoryPattern.abstractzz" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/createType/FactoryPattern/demo" />
+      <recent name="$PROJECT_DIR$/src/main/java/createType/SingletonPattern" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SingletonPatternDemo">
+    <configuration name="FacadePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FacadePattern.FacadePatternDemo" />
+      <module name="zyw-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FacadePattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlyweightPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlyweightPattern.FlyweightPatternDemo" />
+      <module name="zyw-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FlyweightPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="zyw-demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="createType.SingletonPattern.SingletonPatternDemo" />
+      <module name="zyw-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="createType.SingletonPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SingletonPatternDemo" />
+        <item itemvalue="Application.FacadePatternDemo" />
+        <item itemvalue="Application.FlyweightPatternDemo" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82169f31-5571-4b11-bd25-ed5b02e2133b" name="Default Changelist" comment="" />
+      <created>1557911836043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557911836043</updated>
+      <workItem from="1557911837272" duration="11081000" />
+      <workItem from="1564907516187" duration="3117000" />
+      <workItem from="1565054400904" duration="454000" />
+      <workItem from="1565327766163" duration="126000" />
+      <workItem from="1565421301323" duration="76000" />
+      <workItem from="1565747191892" duration="353000" />
+      <workItem from="1576034709227" duration="3158000" />
+    </task>
+    <task id="LOCAL-00001" summary="顿顿">
+      <created>1557911865509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557911865509</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1557912290856</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557912290856</updated>
+    </task>
+    <task id="LOCAL-00003" summary="享元设计模式">
+      <created>1558016056643</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558016056643</updated>
+    </task>
+    <task id="LOCAL-00004" summary="外观设计模式">
+      <created>1558017223546</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558017223546</updated>
+    </task>
+    <task id="LOCAL-00005" summary="分类">
+      <created>1558247237061</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558247237061</updated>
+    </task>
+    <task id="LOCAL-00006" summary="分类">
+      <created>1558247248534</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558247248534</updated>
+    </task>
+    <task id="LOCAL-00007" summary="分类">
+      <created>1558249082906</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558249082906</updated>
+    </task>
+    <task id="LOCAL-00008" summary="添加了 自己的理解 learn文件">
+      <created>1558251762228</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1558251762228</updated>
+    </task>
+    <task id="LOCAL-00009" summary="修改了">
+      <created>1576037345658</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576037345658</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改了">
+      <created>1576037490225</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1576037490225</updated>
+    </task>
+    <task id="LOCAL-00011" summary="修改了">
+      <created>1576037699035</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1576037699035</updated>
+    </task>
+    <task id="LOCAL-00012" summary="修改了">
+      <created>1576038000844</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1576038000844</updated>
+    </task>
+    <task id="LOCAL-00013" summary="修改了">
+      <created>1576038034486</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1576038034486</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="顿顿" />
+    <MESSAGE value="init" />
+    <MESSAGE value="享元设计模式" />
+    <MESSAGE value="外观设计模式" />
+    <MESSAGE value="分类" />
+    <MESSAGE value="添加了 自己的理解 learn文件" />
+    <MESSAGE value="修改了" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/FlyweightPattern/FlyweightPatternDemo.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>ShapeFactory.circleMap</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>

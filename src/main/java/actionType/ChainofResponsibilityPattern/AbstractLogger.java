@@ -5,6 +5,7 @@ public abstract class AbstractLogger {
     public static int DEBUG = 2;
     public static int ERROR = 3;
 
+
     protected int level;
 
     //责任链中的下一个元素
